@@ -68,4 +68,4 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 
 ## Conclusion
 
-Esta práctica se me la más sencilla pues lo unico que hicimos fue crear los archivos de corte considerando ciertos estándares especificados. Verificamos que funcionara con la página de internet adjuntada. Para esta práctica me hubiera gustado ver los componentes en 3D añadidos a mi PCB, pero al parecer las librerías que teníamos que usar sólo mostraban el dibujo del componente que iría puesto. En conclusión, me gustó el uso de KiCad para hacer mis PCB's. Siento que es una herramienta esencial para aprender.
+Esta práctica se me hizo la más sencilla pues lo unico que hicimos fue crear los archivos de corte considerando ciertos estándares especificados. Verificamos que funcionara con la página de internet adjuntada. Para esta práctica me hubiera gustado ver los componentes en 3D añadidos a mi PCB, pero al parecer las librerías que teníamos que usar sólo mostraban el dibujo del componente que iría puesto. En conclusión, me gustó el uso de KiCad para hacer mis PCB's. Siento que es una herramienta esencial para aprender.
